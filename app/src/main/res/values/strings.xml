@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Airplane</string>
+    <string name="title_tickets">Tiquetes</string>
+    <string name="title_carga">Carga</string>
+    <string name="title_list">Lista</string>
+    <string name="title">Tickets</string>
+    <string name="nombre_del_viajero">Nombre del viajero</string>
+    <string name="distancia_del_viaje">Distancia del viaje</string>
+    <string name="dias_de_estancia">Dias de estancia</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="carga">Cargar</string>
+    <string name="nombre_del_pasajero">Nombre del Pasajero</string>
+    <string name="peso_del_equipaje">Peso del Equipaje</string>
+    <string name="tablas">Tablas</string>
+    <string name="descargar">Descargar</string>
+    <string name="buscar">Buscar</string>
+    <string name="retirar">Retirar</string>
+</resources>

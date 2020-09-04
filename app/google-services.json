@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978062287910",
+    "firebase_url": "https://my-airplane.firebaseio.com",
+    "project_id": "my-airplane",
+    "storage_bucket": "my-airplane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978062287910:android:604c1fe3ceb28c2b5df2e7",
+        "android_client_info": {
+          "package_name": "com.daniloosorio.myairplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978062287910-73droui9fq5l7nkadi8fb4ves5h6cpbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0jtsU36w-ZFDv28ZD8AndoJG_hhNmYnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978062287910-73droui9fq5l7nkadi8fb4ves5h6cpbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
